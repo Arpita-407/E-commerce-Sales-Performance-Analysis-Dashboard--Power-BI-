@@ -96,8 +96,8 @@ The dashboard includes interactive slicers for dynamic filtering:
 ## 🙋‍♂️ Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/Arpita-407)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/arpita-thakur/)
+- GitHub: [@Arpita-407](https://github.com/Arpita-407)
+- LinkedIn: [arpita](https://www.linkedin.com/in/arpita-thakur/)
 
 ---
 
